@@ -14,7 +14,7 @@ def home(request):
 
 # views for goto browse page from the sidebar.
 def browse(request):
-    return render(request, 'browse.html')
+    return render(request, 'browse.html', {"employees": Employee.objects.all()})
 
 # views for goto search page from the sidebar.
 def search(request):

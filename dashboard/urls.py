@@ -22,9 +22,9 @@ from pages import views
 from pages import urls as pages_urls
 
 urlpatterns = [
-    re_path('admin/', admin.site.urls),
+    path('admin/', admin.site.urls),
     path('', views.index),
-    re_path(r'index$', views.home, name='index'),
+    re_path(r'index$', views.index, name='index'),
     re_path(r"browse$", views.browse, name='browse'),
     re_path(r"search$", views.search, name='search'),
     re_path(r"help$", views.help, name='help')
