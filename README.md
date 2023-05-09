@@ -8,7 +8,7 @@ Visit [Smashing Magazine](https://smashingmagazine.com) for the full article.
 
 ```
 pip install django
-git clone https://github.com/philipkiely/sm_dh_2_dashboard.git
+git clone https://github.com/trumanLuan/sm_dh_2_dashboard.git
 cd sm_dh_2_dashboard
 python manage.py migrate
 python manage.py createsuperuser
