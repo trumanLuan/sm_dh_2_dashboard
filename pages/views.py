@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from .models import Employee
+from .models import Study
 
 # Create your views here.
 def index(request):
@@ -14,7 +15,10 @@ def home(request):
 
 # views for goto browse page from the sidebar.
 def browse(request):
-    return render(request, 'browse.html', {"employees": Employee.objects.all()})
+    return render(request, 'browse.html', {"studies": Study.objects.all()}) # need to define Study class in models.py.
+
+def browse_results(request):
+    return render(request, "browse_results.html")
 
 # views for goto search page from the sidebar.
 def search(request):
