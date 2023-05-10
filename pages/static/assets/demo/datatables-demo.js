@@ -10,7 +10,7 @@ $(document).ready(function() {
 
     // 发送AJAX请求到后端视图函数，并传递项目ID和名称作为参数
     $.ajax({
-      url: '/browse_results',
+      url: '/browse_results/',
       type: 'POST',
       data: {
         'item_name': itemName
