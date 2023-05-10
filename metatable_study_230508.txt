@@ -1,0 +1,353 @@
+1	GSE145410_human_Leukemia_tissue.BoneMarrow_treat.chemo	Human	blood/bone marrow	Tissue: Bone Marrow	1	2	8389	2	All	chemotherapy
+2	GSE119484_mouse_Leukemia_tissue.BoneMarrow_treated	Mouse	blood/bone marrow	Tissue: Bone Marrow	2	2	3126	2414	All	chemotherapy
+3	GSE152048_human_mPBC_tissue.Lung	Human	lung	Tissue: Lung	2	12	19822	7469	All	chemotherapy
+4	GSE154600_human_OVC_tissue.Omentum	Human	uterus/adnexa	Tissue: Omentum	5	5	41788	4430	All	chemotherapy
+5	GSE152048_human_PBC_tissue.Bone	Human	skeleton	Tissue: Bone	9	64	85641	30696	All	chemotherapy
+6	GSE138267_human_LUC_pdx.Lung_treated.chemo	Human	cdx/pdx	PDX: Lung	2	2	2664	1757	All	chemotherapy: cisplatin
+7	GSE145410_human_Leukemia_tissue.BoneMarrow_treat.combined	Human	blood/bone marrow	Tissue: Bone Marrow	1	2	7012	0	All	combinedtherapy
+8	GSE123824_mouse_LIHC_cdx.IMC9_treated	Mouse	cdx/pdx	CDX: IMC9	3	3	5683	2066	All	gene ko: Prkar1a
+9	GSE134814_mouse_SKCM_cdx.YMMER1.7_treated	Mouse	cdx/pdx	CDX: YUMMER1.7	1	1	5576	0	All	gene_mutant
+10	GSE117988_human_MCC_tissue.Blood	Human	skin	Tissue: Blood	1	4	5356	0	All	immunotherapy
+11	GSE117988_human_MCC_tissue.Skin	Human	skin	Tissue: Skin	1	2	7412	846	All	immunotherapy
+12	GSE118056_human_MCC_tissue.Blood	Human	skin	Tissue: Blood	1	2	5718	0	All	immunotherapy
+13	GSE118056_human_MCC_tissue.Skin	Human	skin	Tissue: Skin	1	2	4601	0	All	immunotherapy
+14	GSE134388_human_SKCM_tissue.Skin	Human	skin	Tissue: Skin	1	1	3803	1881	All	immunotherapy
+15	GSE173117_mouse_Lymphoma_cdx.A20_treated	Mouse	cdx/pdx	CDX: A20	1	1	2296	1236	All	immunotherapy
+16	GSE136206_mouse_BRCA_cdx.T11_treated	Mouse	cdx/pdx	CDX: T11	2	2	11296	0	All	immunotherapy
+17	GSE129297_mouse_LUC_cdx.SCLC_treated	Mouse	cdx/pdx	CDX: SCLC	3	3	9527	1178	All	immunotherapy
+18	GSE146100_human_LUC_tissue.Lung	Human	lung	Tissue: Lung	3	3	11612	258	All	immunotherapy
+19	GSE123813_human_CSCC_tissue.Skin_treated	Human	skin	Tissue: Skin	4	5	13145	0	All	immunotherapy
+20	GSE145281_human_REC_tissue.Kidney	Human	kidney	Tissue: Kidney	4	4	21769	2804	All	immunotherapy
+21	GSE125449_human_LIHC_tissue.Liver	Human	liver/gall	Tissue: Liver	5	5	3223	804	All	immunotherapy
+22	GSE125449_human_CCA_tissue.Bileduct	Human	liver/gall	Tissue: Bile duct	7	7	5124	438	All	immunotherapy
+23	GSE123813_human_BCC_tissue.Skin_treated	Human	skin	Tissue: Skin	11	20	31306	1895	All	immunotherapy
+24	GSE120966_mouse_MB_tissue.Brain	Mouse	CNS	Tissue: Brain	1	1	7601	0	All	NA
+25	GSE122703_human_CTCL_tissue.Blood	Human	skin	Tissue: Blood	1	2	8011	0	All	NA
+26	GSE123902_human_mLUC_tissue.Adrenal	Human	adrenal	Tissue: Adrenal	1	1	2366	218	All	NA
+27	GSE123902_human_mLUC_tissue.Bone	Human	skeleton	Tissue: Bone	1	1	1133	723	All	NA
+28	GSE124888_human_BRCA_pdx.Breast	Human	cdx/pdx	PDX: Breast	1	1	3757	68	All	NA
+29	GSE131007_human_mBRCA_tissue.Bone	Human	skeleton	Tissue: Bone	1	1	591	393	All	NA
+30	GSE131007_human_mBRCA_tissue.Liver	Human	liver/gall	Tissue: Liver	1	1	2874	2659	All	NA
+31	GSE133704_human_LCH_tissue.Lymph	Human	lymph	Tissue: Lymph	1	1	1854	640	All	NA
+32	GSE135851_human_LAM_tissue.Lung_normal	Human	lung	Tissue: Lung	1	1	6606	0	All	NA
+33	GSE135851_human_LAM_tissue.Uterus_normal.normal	Human	uterus/adnexa	Tissue: Uterus	1	1	15183	0	All	NA
+34	GSE135851_human_LAM_tissue.Uterus_patient.normal	Human	uterus/adnexa	Tissue: Uterus	1	1	11569	0	All	NA
+35	GSE140312_human_mSBC_tissue.Liver	Human	liver/gall	Tissue: Liver	1	1	2056	0	All	NA
+36	GSE140312_human_SBC_tissue.SmallIntestine	Human	intestine	Tissue: Small Intestine	1	1	995	504	All	NA
+37	GSE140431_mouse_LUC_tissue.Lung	Mouse	lung	Tissue: Lung	1	2	15057	2840	All	NA
+38	GSE140819_human_Leukemia_tissue.Bonemarrow	Human	blood/bone marrow	Tissue: Bone marrow	1	2	4901	118	All	NA
+39	GSE143423_human_mBRCA_tissue.Brain	Human	CNS	Tissue: Brain	1	1	2999	2521	All	NA
+40	GSE148666_mouse_SKCM_pdx.Lymphnode	Mouse	cdx/pdx	PDX: Lymph node	1	1	NA	NA	All	NA
+41	GSE149614_human_LIHC_tissue.Lymphnode	Human	liver/gall	Tissue: Lymph node	1	1	2771	0	All	NA
+42	GSE150430_human_NPC_tissue.Nasopharynx_normal	Human	head/neck	Tissue: Nasopharynx	1	1	2509	0	All	NA
+43	GSE150752_mouse_MB_tissue.Brain	Mouse	CNS	Tissue: Brain	1	1	9155	268	All	NA
+44	GSE154170_human_CCA_tissue.Liver	Human	liver/gall	Tissue: Liver	1	1	2793	816	All	NA
+45	GSE158803_human_UVM_tissue.Eye	Human	eye	Tissue: Eye	1	1	2571	1580	All	NA
+46	GSE159597_human_SKCM_tissue.Skin_normal	Human	cdx/pdx	PDX: Skin	1	1	589	0	All	NA
+47	GSE163678_human_LUC_tissue.Lung	Human	lung	Tissue: Lung	1	1	10955	4929	All	NA
+48	GSE165623_human_CTCL_tissue.Blood	Human	skin	Tissue: Blood	1	1	3323	0	All	NA
+49	GSE165623_human_CTCL_tissue.Lymphnode	Human	skin	Tissue: Lymph node	1	1	1207	0	All	NA
+50	GSE165623_human_CTCL_tissue.Skin	Human	skin	Tissue: Skin	1	1	4570	2324	All	NA
+51	GSE127465_human_LSCC_tissue.Blood	Human	lung	Tissue: Blood	2	4	5671	0	All	NA
+52	GSE127465_human_LSCC_tissue.Lung	Human	lung	Tissue: Lung	2	6	5479	865	All	NA
+53	GSE132257_human_CRC_tissue.Colon_normal	Human	intestine	Tissue: Colon	2	5	7684	0	All	NA
+54	GSE132257_human_CRC_tissue.Colon_tumor	Human	intestine	Tissue: Colon	2	5	10721	1866	All	NA
+55	GSE139829_human_mUVM_tissue.Liver	Human	liver/gall	Tissue: Liver	2	2	8179	1346	All	NA
+56	GSE140819_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	2	2	5044	3828	All	NA
+57	GSE140819_human_LUC_tissue.Lung	Human	lung	Tissue: Lung	2	5	28109	1088	All	NA
+58	GSE140819_human_SKCM_tissue.Skin	Human	skin	Tissue: Skin	2	2	8135	4323	All	NA
+59	GSE140819_human_SARC_tissue.tumor	Human	soft_tissue	Tissue: tumor	2	4	20625	2861	All	NA
+60	GSE146137_human_BLC_tissue.Bladder	Human	bladder	Tissue: Bladder	2	2	3845	3506	All	NA
+61	GSE149614_human_LIHC_tissue.Blood	Human	liver/gall	Tissue: Blood	2	2	4918	0	All	NA
+62	GSE158803_human_mUVM_tissue.Liver	Human	liver/gall	Tissue: Liver	2	3	1237	58	All	NA
+63	GSE159597_human_SKCM_pdx.Skin	Human	cdx/pdx	PDX: Skin	2	2	1516	636	All	NA
+64	GSE162115_human_GAC_tissue.Stomach_normal	Human	stomach	Tissue: Stomach	2	2	18864	0	All	NA
+65	GSE162115_human_GAC_tissue.Stomach_tumor	Human	stomach	Tissue: Stomach	2	2	15247	2287	All	NA
+66	GSE117154_mouse_Glioma_tissue.Brain	Mouse	CNS	Tissue: Brain	3	3	9407	6732	All	NA
+67	GSE123902_human_mLUC_tissue.Brain	Human	CNS	Tissue: Brain	3	3	NA	NA	All	NA
+68	GSE131007_human_BRCA_tissue.Breast	Human	breast	Tissue: Breast	3	3	5030	2391	All	NA
+69	GSE133704_human_LCH_tissue.Skin	Human	skin	Tissue: Skin	3	3	10939	5636	All	NA
+70	GSE133704_human_LCH_tissue.Bone	Human	skeleton	Tissue: Bone	3	3	11649	6467	All	NA
+71	GSE138709_human_CCA_tissue.Bileduct_normal	Human	liver/gall	Tissue: Bile duct	3	3	16785	0	All	NA
+72	GSE140819_human_OVC_tissue.Ovary	Human	uterus/adnexa	Tissue: Ovary	3	5	31914	3330	All	NA
+73	GSE141982_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	3	3	4810	3428	All	NA
+74	GSE143423_human_mLUC_tissue.Brain	Human	CNS	Tissue: Brain	3	3	11998	207	All	NA
+75	GSE146137_mouse_BLC_tissue.Bladder	Mouse	bladder	Tissue: Bladder	3	6	25282	10050	All	NA
+76	GSE147944_human_CTCL_tissue.Skin_tumor	Human	skin	Tissue: SKin	3	3	10972	5336	All	NA
+77	GSE158803_mouse_CRC_tissue.colon	Mouse	intestine	Tissue: colon	3	3	8639	1048	All	NA
+78	GSE158937_human_OVC_tissue.Ovary	Human	uterus/adnexa	Tissue: Ovary	3	3	4907	1127	All	NA
+79	GSE163028_human_NF_tissue.Skin	Human	skin	Tissue: Skin	3	3	17132	3806	All	NA
+80	GSE171306_human_REC_tissue.Kidney	Human	kidney	Tissue: Kidney	3	3	9193	933	All	NA
+81	GSE121861_mouse_SKCM_cdx.B16F10	Mouse	cdx/pdx	CDX: B16F10	4	4	248	31	All	NA
+82	GSE121861_mouse_CRC_cdx.CT26	Mouse	cdx/pdx	CDX: CT26	4	4	4479	192	All	NA
+83	GSE121861_mouse_BRCA_cdx.EMT6	Mouse	cdx/pdx	CDX: EMT6	4	4	545	353	All	NA
+84	GSE121861_mouse_LUC_cdx.LL2	Mouse	cdx/pdx	CDX: LL2	4	4	1651	581	All	NA
+85	GSE121861_mouse_CRC_cdx.MC38	Mouse	cdx/pdx	CDX: MC38	4	4	1270	755	All	NA
+86	GSE121861_mouse_SARC_cdx.SA1N	Mouse	cdx/pdx	CDX: SA1N	4	4	1658	442	All	NA
+87	GSE123902_human_LUC_tissue.Lung_normal	Human	lung	Tissue: Lung	4	4	11394	0	All	NA
+88	GSE126349_mouse_BRCA_tissue.Breast	Mouse	breast	Tissue: Breast	4	6	4643	1629	All	NA
+89	GSE127465_human_LUAD_tissue.Blood	Human	lung	Tissue: Blood	4	4	1659	0	All	NA
+90	GSE127997_mouse_MB_tissue.Brain	Mouse	CNS	Tissue: Brain	4	4	3707	0	All	NA
+91	GSE128531_human_CTCL_tissue.Skin_normal	Human	skin	Tissue: Skin	4	4	9912	0	All	NA
+92	GSE135851_human_LAM_tissue.Lung_tumor	Human	lung	Tissue: Lung	4	4	21828	0	All	NA
+93	GSE138709_human_CCA_tissue.Bileduct_tumor	Human	liver/gall	Tissue: Bile duct	4	5	15841	8228	All	NA
+94	GSE140819_human_NB_tissue.Nerve	Human	nerve	Tissue: Nerve	4	10	53854	0	All	NA
+95	GSE147944_human_CTCL_tissue.Skin_normal	Human	skin	Tissue: SKin	4	4	9912	0	All	NA
+96	GSE149201_human_PBC_tissue.Bone	Human	skeleton	Tissue: Bone	4	4	31039	0	All	NA
+97	GSE158356_human_PAC_tissue.Liver	Human	pancreas	Tissue: Liver	4	4	3841	456	All	NA
+98	GSE160269_human_ESC_tissue.Esophagus_normal	Human	esophagus	Tissue: Esophagus	4	8	16575	0	All	NA
+99	GSE127465_human_LUAD_tissue.Lung	Human	lung	Tissue: Lung	5	12	17387	1133	All	NA
+100	GSE128531_human_CTCL_tissue.Skin_tumor	Human	skin	Tissue: Skin	5	5	19475	0	All	NA
+101	GSE150660_human_LMC_tissue.CSF	Human	CNS	Tissue: CSF	5	5	16345	1981	All	NA
+102	GSE156210_mouse_PAC_tissue.Pancreas	Mouse	pancreas	Tissue: Pancreas	5	5	17495	4652	All	NA
+103	GSE156625_human_LIHC_tissue.Liver_normaldonor	Human	liver/gall	Tissue: Liver	5	9	25312	0	All	NA
+104	GSE161610_human_Leukemia_tissue.Blood	Human	blood/bone marrow	Tissue: Blood	5	5	28407	8602	All	NA
+105	GSE161610_human_Leukemia_tissue.Lymphnode	Human	blood/bone marrow	Tissue: Lymph node	5	5	14878	2617	All	NA
+106	GSE137804_human_NB_tissue.Adrenal_normal	Human	adrenal	Tissue: Adrenal	6	6	98738	0	All	NA
+107	GSE137829_human_PRC_tissue.Prostate	Human	prostate	Tissue: Prostate	6	6	24304	9625	All	NA
+108	GSE140819_human_BRCA_tissue.Breast	Human	breast	Tissue: Breast	6	10	63908	23457	All	NA
+109	GSE141460_human_Glioma_tissue.Ependyma	Human	CNS	Tissue: Ependyma	6	6	61142	0	All	NA
+110	GSE146026_human_OVC_tissue.Ascites	Human	uterus/adnexa	Tissue: Ascites	6	8	9585	2769	All	NA
+111	GSE165534_mouse_mPAC_tissue.Liver	Mouse	liver/gall	Tissue: Liver	7	7	3567	1512	All	NA
+112	GSE123902_human_LUC_tissue.Lung_tumor	Human	lung	Tissue: Lung	8	8	16631	1419	All	NA
+113	GSE149614_human_LIHC_tissue.Liver_normal	Human	liver/gall	Tissue: Liver	8	8	28626	0	All	NA
+114	GSE131928_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	9	10	14510	7058	All	NA
+115	GSE139829_human_UVM_tissue.Eye	Human	eye	Tissue: Eye	9	9	76380	51943	All	NA
+116	GSE125587_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	10	10	21750	21700	All	NA
+117	GSE144236_human_CSCC_tissue.Skin_normal	Human	skin	Tissue: Skin	10	12	21834	0	All	NA
+118	GSE144236_human_CSCC_tissue.Skin_tumor	Human	skin	Tissue: Skin	10	13	25926	9247	All	NA
+119	GSE149614_human_LIHC_tissue.Liver_tumor	Human	liver/gall	Tissue: Liver	10	10	33013	7923	All	NA
+120	GSE156625_human_LIHC_tissue.Liver_tumor	Human	liver/gall	Tissue: Liver	10	20	31499	4419	All	NA
+121	GSE156625_human_LIHC_tissue.Liver_normal	Human	liver/gall	Tissue: Liver	11	11	9151	0	All	NA
+122	GSE165534_mouse_PAC_tissue.Pancreas	Mouse	pancreas	Tissue: Pancreas	12	22	21176	0	All	NA
+123	GSE141445_human_PRC_tissue.Prostate	Human	prostate	Tissue: Prostate	13	13	32901	14396	All	NA
+124	GSE150825_human_NPC_tissue.Nasopharynx	Human	head/neck	Tissue: Nasopharynx	14	15	62723	3747	All	NA
+125	GSE150430_human_NPC_tissue.Nasopharynx_tumor	Human	head/neck	Tissue: Nasopharynx	15	15	44444	5790	All	NA
+126	GSE137804_human_NB_tissue.Adrenal_tumor	Human	adrenal	Tissue: Adrenal	16	16	172087	155	All	NA
+127	GSE154778_human_PAC_tissue.Pancreas	Human	pancreas	Tissue: Pancreas	16	16	13528	2407	All	NA
+128	GSE125969_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	18	18	13957	8955	All	NA
+129	GSE145410_human_Leukemia_tissue.BoneMarrow_treat.target	Human	blood/bone marrow	Tissue: Bone Marrow	1	2	6303	1	All	targettherapy
+130	GSE139492_mouse_BRCA_cdx.MM3MG_treat.cd47	Mouse	cdx/pdx	CDX: MM3MG	2	2	3809	2054	All	targettherapy
+131	GSE139492_mouse_BRCA_cdx.MM3MG_treat.her2	Mouse	cdx/pdx	CDX: MM3MG	4	4	9831	6109	All	targettherapy
+132	GSE139492_mouse_BRCA_cdx.MM3MG_treat.combine	Mouse	cdx/pdx	CDX: MM3MG	4	4	16757	2249	All	targettherapy
+133	GSE138267_human_LUC_pdx.Lung_treated.target	Human	cdx/pdx	PDX: Lung	1	5	17450	4166	All	"targettherapy: prexasertib, talazoparib"
+134	GSE131907_human_LUC_tissue.Effusion	Human	lung	Tissue: Effusion	5	5	20194	0	All	untreated
+135	GSE173682_human_EDAC_tissue.Uterus	Human	uterus/adnexa	Tissue: Uterus	5	5	32354	16106	All	untreated
+136	GSE173682_human_OVC_tissue.Ovary	Human	uterus/adnexa	Tissue: Ovary	6	6	40969	19021	All	untreated
+137	GSE131907_human_LUC_tissue.Brain	Human	lung	Tissue: Brain	10	10	28084	0	All	untreated
+138	GSE131907_human_LUC_tissue.Lung_normal	Human	lung	Tissue: Lung	11	11	42957	0	All	untreated
+139	GSE131907_human_LUC_tissue.Lung_tumor	Human	lung	Tissue: Lung	15	15	56624	9357	All	untreated
+140	GSE131907_human_LUC_tissue.Lymphnode	Human	lung	Tissue: Lymph node	17	17	58424	0	All	untreated
+141	GSE118828_human_OVC_tissue.Ovary	Human	uterus/adnexa	Tissue: Ovary	9	16	2022	0	All	unknown
+142	GSE117615_mouse_CRC_tissue.Colon_normal	Mouse	intestine	Tissue: Colon	1	1	1343	0	All	untreated
+143	GSE117615_mouse_CRC_tissue.Colon_tissue	Mouse	intestine	Tissue: Colon	1	1	1133	398	All	untreated
+144	GSE122730_mouse_NF_tissue.Nerve	Mouse	nerve	Tissue: Nerve	1	1	4180	958	All	untreated
+145	GSE123824_mouse_LIHC_cdx.IMC9_untreated	Mouse	cdx/pdx	CDX: IMC9	1	1	699	0	All	untreated
+146	GSE129297_mouse_LUC_cdx.SCLC_untreated	Mouse	cdx/pdx	CDX: SCLC	1	1	2964	519	All	untreated
+147	GSE134814_mouse_SKCM_cdx.YMMER1.7_untreated	Mouse	cdx/pdx	CDX: YUMMER1.7	1	1	4480	792	All	untreated
+148	GSE145410_human_Leukemia_tissue.BoneMarrow_untreated	Human	blood/bone marrow	Tissue: Bone Marrow	1	2	9608	1	All	untreated
+149	GSE173117_mouse_Lymphoma_cdx.A20_untreated	Mouse	cdx/pdx	CDX: A20	1	1	2516	1404	All	untreated
+150	GSE119484_mouse_Leukemia_tissue.BoneMarrow_untreated	Mouse	blood/bone marrow	Tissue: Bone Marrow	2	2	2507	729	All	untreated
+151	GSE136206_mouse_BRCA_cdx.T11_untreated	Mouse	cdx/pdx	CDX: T11	2	2	16293	8614	All	untreated
+152	GSE148673_human_IDC_tissue.Breast	Human	breast	Tissue: Breast	2	2	5785	4842	All	untreated
+153	GSE111672_human_PAC_tissue.Pancreas	Human	pancreas	Tissue: Pancreas	3	13	5404	636	All	untreated
+154	GSE129845_human_BLC_tissue.Bladder	Human	bladder	Tissue: Bladder	3	3	13383	4452	All	untreated
+155	GSE139492_mouse_BRCA_cdx.MM3MG_untreated	Mouse	cdx/pdx	CDX: MM3MG	3	3	6833	1049	All	untreated
+156	GSE117570_human_LUC_tissue.Lung_normal	Human	lung	Tissue: Lung	4	4	6464	0	All	untreated
+157	GSE117570_human_LUC_tissue.Lung_tumor	Human	lung	Tissue: Lung	4	4	4596	0	All	untreated
+158	GSE123813_human_CSCC_tissue.Skin_untreated	Human	skin	Tissue: Skin	4	5	12684	0	All	untreated
+159	GSE138267_human_LUC_pdx.Lung_untreated	Human	cdx/pdx	PDX: Lung	5	12	44408	12951	All	untreated
+160	GSE148673_human_TNBC_tissue.Breast	Human	breast	Tissue: Breast	5	5	5944	2439	All	untreated
+161	GSE148673_human_ATC_tissue.Thyroid	Human	head/neck	Tissue: Thyroid	5	5	17256	3816	All	untreated
+162	GSE134520_human_GAC_tissue.Stomach	Human	stomach	Tissue: Stomach	7	7	NA	NA	All	untreated
+163	GSE130000_human_OVC_tissue.Ovary	Human	uterus/adnexa	Tissue: Ovary	8	8	11276	1569	All	untreated
+164	GSE138794_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	10	10	19042	13510	All	untreated
+165	GSE123813_human_BCC_tissue.Skin_untreated	Human	skin	Tissue: Skin	11	21	20600	1320	All	untreated
+166	GSE135710_human_BRCA_tissue.Breast	Human	breast	Tissue: Breast	1	2	2699	0	B cell	chemotherapy
+167	GSE135710_mouse_BRCA_cdx.Tumor	Mouse	cdx/pdx	CDX: tumor	1	2	NA	NA	B cell	chemotherapy
+168	GSE136001_mouse_Glioma_cdx.GL261_normal	Mouse	cdx/pdx	CDX: GL261	4	4	19306	0	CD11b+	NA
+169	GSE136001_mouse_Glioma_cdx.GL261_tumor	Mouse	cdx/pdx	CDX: GL261	4	4	20186	0	CD11b+	NA
+170	GSE139448_human_Glioma_tissue.Brain	Human	CNS	Tissue: Brain	3	3	13512	12607	CD133+	NA
+171	GSE124310_human_MM_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	6	6	5251	0	CD138-	untreated
+172	GSE124310_human_MM_tissue.BoneMarrow_tumor	Human	blood/bone marrow	Tissue: Bone Marrow	21	21	17721	0	CD138-	untreated
+173	GSE110686_human_BRCA_tissue.Breast	Human	breast	Tissue: Breast	2	2	6149	0	CD3+	untreated
+174	GSE114724_human_BRCA_tissue.Breast	Human	breast	Tissue: Breast	3	5	28575	0	CD3+	untreated
+175	GSE153319_human_Leukemia_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	1	1	776	0	CD34+	targettherapy
+176	GSE153319_human_Leukemia_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	1	2	6492	0	CD34+	targettherapy
+177	GSE147989_human_Leukemia_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	2	2	3970	0	CD34+	immunotherapy
+178	GSE147989_human_Leukemia_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	2	2	3006	0	CD34+	untreated
+179	GSE117156_human_MM_tissue.BoneMarrow_AL	Human	blood/bone marrow	Tissue: Bone Marrow	4	15	3089	413	CD38+CD138+	NA
+180	GSE117156_human_MM_tissue.BoneMarrow_SMM	Human	blood/bone marrow	Tissue: Bone Marrow	6	18	3134	308	CD38+CD138+	NA
+181	GSE117156_human_MM_tissue.BoneMarrow_MGUS	Human	blood/bone marrow	Tissue: Bone Marrow	7	19	3323	476	CD38+CD138+	NA
+182	GSE117156_human_MM_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	11	24	4923	0	CD38+CD138+	NA
+183	GSE117156_human_MM_tissue.BoneMarrow_MM	Human	blood/bone marrow	Tissue: Bone Marrow	14	59	11801	1916	CD38+CD138+	NA
+184	GSE152022_mouse_LUC_tissue.Lung_tumor	Mouse	lung	Tissue: Lung	1	1	NA	NA	CD4+	NA
+185	GSE152022_mouse_LUC_tissue.Lung_normal	Mouse	lung	Tissue: Lung	1	1	NA	NA	CD4+	NA
+186	GSE107747_human_LIHC_tissue.Blood	Human	liver/gall	Tissue: Blood	2	2	10182	0	CD45-	NA
+187	GSE130001_human_BLC_tissue.Bladder	Human	bladder	Tissue: Bladder	2	2	4021	2309	CD45-	NA
+188	GSE160269_human_ESC_tissue.Esophagus_tumor_cd45n	Human	esophagus	Tissue: Esophagus	60	60	93488	35697	CD45-	NA
+189	GSE130116_human_Leukemia_tissue.BoneMarrow_treated	Human	blood/bone marrow	Tissue: Bone Marrow	6	6	33691	9	CD45+	chemotherapy
+190	GSE118931_mouse_LUC_cdx.LLC_treated	Mouse	cdx/pdx	CDX: LLC	1	1	2710	0	CD45+	experiment: gene-ko/kn
+191	GSE121478_mouse_SKCM_cdx.B16F10_treated	Mouse	cdx/pdx	CDX: B16F10	2	2	5789	0	CD45+	"experiment:gene-ko/kn,mir155"
+192	GSE112865_mouse_CRC_cdx.MC38_treated	Mouse	cdx/pdx	CDX: MC38	1	1	3341	0	CD45+	immunotherapy
+193	GSE136125_mouse_CRC_cdx.MC38	Mouse	cdx/pdx	CDX: MC38	2	2	6991	0	CD45+	immunotherapy
+194	GSE119352_mouse_SARC_cdx.129S6_treated	Mouse	cdx/pdx	CDX: 129S6	3	3	10129	0	CD45+	immunotherapy
+195	GSE155972_mouse_LUC_tissue.Lung	Mouse	lung	Tissue: Lung	28	28	NA	NA	CD45+	immunotherapy; experiment:gene-ko/kn
+196	GSE127465_mouse_LUC_tissue.Lung_normal	Mouse	lung	Tissue: Lung	2	5	NA	NA	CD45+	NA
+197	GSE127465_mouse_LUC_tissue.Lung_tumor	Mouse	lung	Tissue: Lung	2	9	NA	NA	CD45+	NA
+198	GSE139555_human_CRC_tissue.Colon_tumor	Human	intestine	Tissue: Colon	2	2	7080	0	CD45+	NA
+199	GSE139555_human_CRC_tissue.Colon_normal	Human	intestine	Tissue: Colon	2	2	3667	0	CD45+	NA
+200	GSE141665_human_BRCA_tissue.Breast_tumor	Human	breast	Tissue: Breast	2	2	6613	0	CD45+	NA
+201	GSE137710_human_SKCM_tissue.Skin	Human	skin	Tissue: Skin	3	3	9310	0	CD45+	NA
+202	GSE139555_human_REC_tissue.Kidney_normal	Human	kidney	Tissue: Kidney	3	3	15365	0	CD45+	NA
+203	GSE139555_human_REC_tissue.Kidney_tumor	Human	kidney	Tissue: Kidney	3	3	19346	0	CD45+	NA
+204	GSE139555_human_REC_tissue.Blood	Human	kidney	Tissue: Blood	3	3	16499	0	CD45+	NA
+205	GSE141665_human_BRCA_tissue.Breast_normal	Human	breast	Tissue: Breast	3	3	10131	0	CD45+	NA
+206	GSE150876_mouse_SARC_cdx.MCA-205	Mouse	cdx/pdx	CDX: MCA-205	3	3	8483	0	CD45+	NA
+207	GSE130116_human_Leukemia_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	4	4	21111	0	CD45+	NA
+208	GSE154109_human_Leukemia_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	4	4	5445	0	CD45+	NA
+209	GSE139324_human_OCC_tissue.Mouth_normal	Human	head/neck	Tissue: Mouth	5	5	12886	0	CD45+	NA
+210	GSE139324_human_OCC_tissue.Blood_normal	Human	head/neck	Tissue: Blood	6	6	12124	0	CD45+	NA
+211	GSE145370_human_ESC_tissue.Esophagus_normal	Human	esophagus	Tissue: Esophagus	7	7	40654	0	CD45+	NA
+212	GSE145370_human_ESC_tissue.Esophagus_tumor	Human	esophagus	Tissue: Esophagus	7	7	59790	0	CD45+	NA
+213	GSE154109_human_Leukemia_tissue.BoneMarrow_ALL	Human	blood/bone marrow	Tissue: Bone Marrow	7	7	9575	2267	CD45+	NA
+214	GSE154109_human_Leukemia_tissue.BoneMarrow_AML	Human	blood/bone marrow	Tissue: Bone Marrow	8	8	9889	19	CD45+	NA
+215	GSE139324_human_OCC_tissue.Mouth_tumor	Human	head/neck	Tissue: Mouth	26	26	60793	0	CD45+	NA
+216	GSE139324_human_OCC_tissue.Blood_tumor	Human	head/neck	Tissue: Blood	26	26	45285	0	CD45+	NA
+217	GSE160269_human_ESC_tissue.Esophagus_tumor_cd45p	Human	esophagus	Tissue: Esophagus	60	60	105098	0	CD45+	NA
+218	GSE145905_mouse_PAC_cdx.KPC_treated	Mouse	cdx/pdx	CDX: KPC	3	3	9407	0	CD45+	PDL1 ko
+219	GSE121636_human_REC_tissue.Kidney	Human	kidney	Tissue: Kidney	3	3	12031	0	CD45+	untreated
+220	GSE121636_human_REC_tissue.Blood	Human	kidney	Tissue: Blood	3	3	13200	0	CD45+	untreated
+221	GSE111360_human_REC_tissue.Kidney_normal	Human	blood/bone marrow	Tissue: Blood	1	1	4106	0	CD45+	untreated
+222	GSE112865_mouse_CRC_cdx.MC38_untreated	Mouse	cdx/pdx	CDX: MC38	1	1	1185	0	CD45+	untreated
+223	GSE114725_human_BRCA_tissue.Lymphnode	Human	breast	Tissue: Lymph node	1	5	1765	0	CD45+	untreated
+224	GSE118931_mouse_LUC_cdx.LLC_untreated	Mouse	cdx/pdx	CDX: LLC	1	1	2445	0	CD45+	untreated
+225	GSE119352_mouse_SARC_cdx.129S6_untreated	Mouse	cdx/pdx	CDX: 129S6	1	1	3823	0	CD45+	untreated
+226	GSE111360_human_REC_tissue.Kidney_tumor	Human	kidney	Tissue: Kidney	2	4	22222	0	CD45+	untreated
+227	GSE114725_human_BRCA_tissue.Breast_normal	Human	breast	Tissue: Breast	2	4	2504	0	CD45+	untreated
+228	GSE114725_human_BRCA_tissue.Blood	Human	breast	Tissue: Blood	2	7	7159	0	CD45+	untreated
+229	GSE121478_mouse_SKCM_cdx.B16F10_untreated	Mouse	cdx/pdx	CDX: B16F10	2	2	5458	0	CD45+	untreated
+230	GSE145905_mouse_PAC_cdx.KPC_untreated	Mouse	cdx/pdx	CDX: KPC	2	2	7557	0	CD45+	untreated
+231	GSE114725_human_BRCA_tissue.Breast_tumor	Human	breast	Tissue: Breast	4	14	9156	0	CD45+	untreated
+232	GSE130116_human_Leukemia_tissue.BoneMarrow_untreated	Human	blood/bone marrow	Tissue: Bone Marrow	7	7	41166	8345	CD45+	untreated
+233	GSE146771_human_CRC_tissue.Colon_tumor	Human	intestine	Tissue: Colon; Blood	10	10	10694	0	CD45+	untreated
+234	GSE146771_human_CRC_tissue.Colon_normal	Human	intestine	Tissue: Colon; Blood	10	10	12657	0	CD45+	untreated
+235	GSE146771_human_CRC_tissue.Blood	Human	intestine	Tissue: Colon; Blood	10	10	20466	0	CD45+	untreated
+236	GSE158803_human_mLUC_tissue.Brain	Human	CNS	Tissue: Brain	1	1	789	0	CD45+; CAF	NA
+237	GSE139555_human_EDAC_tissue.Uterus_normal	Human	uterus/adnexa	Tissue: Uterus	1	1	381	0	CD45+CD3+	NA
+238	GSE139555_human_LCLC_tissue.Blood	Human	lung	Tissue: Blood	1	1	8228	0	CD45+CD3+	NA
+239	GSE139555_human_LCLC_tissue.Lung_normal	Human	lung	Tissue: Blood	1	1	8506	0	CD45+CD3+	NA
+240	GSE139555_human_LCLC_tissue.Lung_tumor	Human	lung	Tissue: Blood	1	1	5470	0	CD45+CD3+	NA
+241	GSE139555_human_LSCC_tissue.Lung_normal	Human	lung	Tissue: Lung	2	2	17292	0	CD45+CD3+	NA
+242	GSE139555_human_LSCC_tissue.Lung_tumor	Human	lung	Tissue: Lung	2	2	14269	0	CD45+CD3+	NA
+243	GSE139555_human_LUAD_tissue.Lung_normal	Human	lung	Tissue: Lung	3	3	12087	0	CD45+CD3+	NA
+244	GSE139555_human_LUAD_tissue.Lung_tumor	Human	lung	Tissue: Lung	3	3	13261	0	CD45+CD3+	NA
+245	GSE139555_human_EDAC_tissue.Uterus_tumor	Human	uterus/adnexa	Tissue: Uterus	3	3	12879	0	CD45+CD3+	NA
+246	GSE171194_mouse_SKCM_cdx.B16_treated	Mouse	cdx/pdx	CDX: B16	1	1	2899	0	CD45+CD3+;CD45+CD11b+	gene ko: cd36
+247	GSE171194_mouse_SKCM_cdx.B16_untreated	Mouse	cdx/pdx	CDX: B16	1	1	1203	0	CD45+CD3+;CD45+CD11b+	untreated
+248	GSE132959_mouse_BRCA_cdx.E0771_treated	Mouse	cdx/pdx	CDX: E0771	1	1	NA	NA	CD8+ T	immunotherapy
+249	GSE125881_human_NHL _tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	2	5	14784	0	CD8+ T	immunotherapy
+250	GSE125881_human_CLL_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	2	6	25208	0	CD8+ T	immunotherapy
+251	GSE122675_mouse_SKCM_cdx.B16F10	Mouse	cdx/pdx	CDX: B16F10	2	4	11804	0	CD8+ T	NA
+252	GSE116390_mouse_SKCM_cdx.PMEL	Mouse	cdx/pdx	CDX: PMEL	3	3	1680	0	CD8+ T	NA
+253	GSE116390_mouse_SKCM_cdx.B16F10	Mouse	cdx/pdx	CDX: B16F10	4	4	5493	0	CD8+ T	NA
+254	GSE145328_human_CSCC_tissue.Skin	Human	skin	Tissue: Skin	11	11	24425	0	CD8+ T	NA
+255	GSE132959_mouse_BRCA_cdx.E0771_untreated	Mouse	cdx/pdx	CDX: E0771	1	1	NA	NA	CD8+ T	untreated
+256	GSE125881_human_NHL _tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	2	2	8730	0	CD8+ T	untreated
+257	GSE125881_human_CLL_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	2	2	29066	0	CD8+ T	untreated
+258	GSE169609_human_UVM_tissue.Blood	Human	eye	Tissue: Blood	3	3	16920	0	CD8+; CD3+	untreated
+259	GSE138892_human_Leukemia_cellline.DND-41_treated	Human	blood/bone marrow	CellLine: DND-41	0	3	NA	NA	cellline	targettherapy
+260	GSE138892_human_Leukemia_cellline.DND-41_untreated	Human	blood/bone marrow	CellLine: DND-41	0	1	NA	NA	cellline	untreated
+261	GSE118904_mouse_BRCA_cdx.EO771_normal	Mouse	cdx/pdx	CDX: EO771	1	1	1805	0	endothelial cell	NA
+262	GSE118904_mouse_BRCA_cdx.EO771_tumor	Mouse	cdx/pdx	CDX: EO771	1	1	1000	0	endothelial cell	NA
+263	GSE171451_mouse_BRCA_tissue.Breast	Mouse	breast	Tissue: Breast	8	8	8204	0	endothelial cell	targettherapy
+264	GSE123926_human_BRCA_pdx.Breast	Human	cdx/pdx	PDX: Breast	2	2	24498	3532	epithelial cell	untreated
+265	GSE162506_human_Leukemia_pdx.Tumor	Human	cdx/pdx	PDX: Tumor	3	3	15095	0	GFP+hCD45+	NA
+266	GSE142213_human_Leukemia_tissue.BoneMarrow	Human	blood/bone marrow	Tissue: Bone Marrow	2	2	3978	0	Lin- cell	NA
+267	GSE142213_mouse_Leukemia_tissue.BoneMarrow	Mouse	blood/bone marrow	Tissue: Bone Marrow	2	2	9595	3237	Lin-CD45+	NA
+268	GSE136394_human_CRC_tissue.Colon	Human	intestine	Tissue: Colon	5	8	31163	0	lymphocytes	chemotherapy
+269	GSE162498_human_LUC_tissue.Lung_normal	Human	lung	Tissue: Lung	2	2	3895	0	lymphocytes	untreated
+270	GSE162498_human_LUC_tissue.Lung_tumor	Human	lung	Tissue: Lung	11	11	37617	0	lymphocytes	untreated
+271	GSE148190_human_SKCM_tissue.Skin	Human	skin	Tissue: Skin	1	1	2328	0	lymphocytes	untreated
+272	GSE148190_human_SKCM_tissue.Blood	Human	skin	Tissue: Blood	2	2	11915	0	lymphocytes	untreated
+273	GSE148190_human_SKCM_tissue.Lymphnode	Human	skin	Tissue: Lymph node	3	3	13644	0	lymphocytes	untreated
+274	GSE115007_human_OVC_tissue.Ascites	Human	uterus/adnexa	Tissue: Ascites	1	2	2524	0	macrophage; dendritic cell	NA
+275	GSE146590_human_Leukemia_tissue.BoneMarrow_treated	Human	blood/bone marrow	Tissue: Bone Marrow	1	1	2875	0	malignant	chemotherapy
+276	GSE123366_mouse_BRCA_cdx.4T1	Mouse	cdx/pdx	CDX: 4T1	1	1	1753	0	malignant	NA
+277	GSE117599_human_Glioma_pdx.Brain	Human	cdx/pdx	PDX: Brain	2	2	3236	0	malignant	NA
+278	GSE123366_mouse_BRCA_cdx.BRCA1	Mouse	cdx/pdx	CDX: BRCA1	2	2	2334	0	malignant	NA
+279	GSE123366_mouse_BRCA_cdx.FF99WT	Mouse	cdx/pdx	CDX: FF99WT	2	2	3801	0	malignant	NA
+280	GSE123366_mouse_BRCA_cdx.NEU	Mouse	cdx/pdx	CDX: NEU	2	2	4307	0	malignant	NA
+281	GSE123903_human_mLUC_pdx.Bone	Human	cdx/pdx	PDX: Bone	3	3	9982	0	malignant	NA
+282	GSE123903_human_mLUC_pdx.Lung	Human	cdx/pdx	PDX: Lung	4	5	25830	0	malignant	NA
+283	GSE123903_human_mLUC_pdx.Kidney	Human	cdx/pdx	PDX: Kidney	5	5	17332	0	malignant	NA
+284	GSE130024_human_SARC_pdx.Tumor	Human	cdx/pdx	PDX: Tumor	5	5	15739	8965	malignant	NA
+285	GSE145326_human_BRCA_pdx.Breast_treated	Human	cdx/pdx	PDX: Breast	1	4	37339	29704	malignant	targettherapy
+286	GSE162045_human_LUC_cellline.PC-9	Human	cell line	CellLine: PC-9	0	4	NA	NA	malignant	targettherapy
+287	GSE162045_human_SKCM_cellline.SKMEL28	Human	cell line	CellLine: SKMEL28	0	4	NA	NA	malignant	targettherapy
+288	"GSE137524_human_NPC_cellline.UM-SCC1,SCC6,SCC25_treated"	Human	head/neck	"CellLine: UM-SCC1,SCC6,SCC25"	0	6	NA	NA	malignant	targettherapy: cetuximab
+289	GSE162234_human_MCL_cellline.REC1_normal	Human	cell line	CellLine: REC-1	0	2	NA	NA	malignant	targettherapy: ibrutinib
+290	GSE162234_human_MCL_cellline.REC1_treated	Human	cell line	CellLine: REC-1	0	3	NA	NA	malignant	targettherapy: ibrutinib
+291	GSE145326_human_BRCA_pdx.Breast_untreated	Human	cdx/pdx	PDX: Breast	1	2	17075	10861	malignant	untreated
+292	GSE146590_human_Leukemia_tissue.BoneMarrow_untreated	Human	blood/bone marrow	Tissue: Bone Marrow	1	1	2276	0	malignant	untreated
+293	"GSE137524_human_NPC_cellline.UM-SCC1,SCC6,SCC25_untreated"	Human	head/neck	"CellLine: UM-SCC1,SCC6,SCC25"	0	6	NA	NA	malignant	untreated
+294	GSE124898_human_CTCL_tissue.Blood	Human	skin	Tissue: Blood	1	2	7028	0	mononuclear cell	chemotherapy; immunotherapy
+295	GSE148218_human_Leukemia_tissue.BoneMarrow_chemotherapy	Human	blood/bone marrow	Tissue: Bone Marrow	2	2	11684	2360	mononuclear cell	chemotherapy
+296	GSE130157_human_ESC_tissue.Blood	Human	esophagus	Tissue: Blood	2	6	7000	0	mononuclear cell	combination of chemetherapy and immunotherapy
+297	GSE130157_human_PAC_tissue.Blood	Human	pancreas	Tissue: Blood	2	8	13085	0	mononuclear cell	combination of chemetherapy and immunotherapy
+298	GSE130157_human_LIHC_tissue.Blood	Human	liver/gall	Tissue: Blood	3	10	17869	0	mononuclear cell	combination of chemetherapy and immunotherapy
+299	GSE130157_human_CRC_tissue.Blood	Human	intestine	Tissue: Blood	6	20	31601	0	mononuclear cell	combination of chemetherapy and immunotherapy
+300	GSE145281_human_REC_tissue.Blood	Human	kidney	Tissue: Blood	4	4	21769	0	mononuclear cell	immunotherapy
+301	GSE145281_human_BLC_tissue.Blood	Human	bladder	Tissue: Blood	10	10	15832	0	mononuclear cell	immunotherapy
+302	GSE136394_human_CRC_tissue.Blood	Human	intestine	Tissue: Blood	1	8	35737	0	mononuclear cell	immunotherapy: adoptive cell therapy
+303	GSE150930_human_Leukemia_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	1	1	1768	941	mononuclear cell	immunotherapy; chemotherapy
+304	GSE127471_human_LUC_tissue.Blood	Human	lung	Tissue: Blood	1	1	1799	0	mononuclear cell	NA
+305	GSE142744_human_Leukemia_tissue.Blood	Human	blood/bone marrow	Tissue: Blood	2	4	13032	1732	mononuclear cell	NA
+306	GSE132509_human_Leukemia_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	3	3	6708	0	mononuclear cell	NA
+307	GSE117824_human_Leukemia_tissue.Blood	Human	blood/bone marrow	Tissue: Blood	5	5	23969	3	mononuclear cell	NA
+308	GSE117824_human_Leukemia_tissue.BoneMarrow	Human	blood/bone marrow	Tissue: Bone Marrow	6	6	25369	1	mononuclear cell	NA
+309	GSE132509_human_Leukemia_tissue.BoneMarrow_tumor	Human	blood/bone marrow	Tissue: Bone Marrow	8	8	32272	1045	mononuclear cell	NA
+310	GSE163278_human_MM_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	8	8	10381	0	mononuclear cell	NA
+311	GSE163278_human_MM_tissue.BoneMarrow_tumor	Human	blood/bone marrow	Tissue: Bone Marrow	11	11	16149	1097	mononuclear cell	NA
+312	GSE163278_human_MM_tissue.BoneMarrow_pretumor	Human	blood/bone marrow	Tissue: Bone Marrow	14	14	23610	0	mononuclear cell	NA
+313	GSE111014_human_Leukemia_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	2	5	17829	2043	mononuclear cell	targettherapy
+314	GSE116481_human_Leukemia_tissue.Blood_treated	Human	blood/bone marrow	Tissue: Blood	1	2	1592	17	mononuclear cell	targettherapy; chemotherapy
+315	GSE162498_human_LUC_tissue.Blood	Human	lung	Tissue: Blood	4	4	26845	0	mononuclear cell	untreated
+316	GSE116481_human_Leukemia_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	1	1	2365	1	mononuclear cell	untreated
+317	GSE150930_human_Leukemia_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	1	1	954	155	mononuclear cell	untreated
+318	GSE111014_human_Leukemia_tissue.Blood_untreated	Human	blood/bone marrow	Tissue: Blood	4	4	13269	2825	mononuclear cell	untreated
+319	GSE148218_human_Leukemia_tissue.BoneMarrow	Human	blood/bone marrow	Tissue: Bone Marrow	6	6	32359	3355	mononuclear cell	untreated
+320	GSE152674_mouse_BRCA_tissue.Breast_treated	Mouse	breast	Tissue: Breast	3	3	2495	0	myeloid cell	Dab2 gene ko
+321	GSE171861_mouse_SKCM_cdx.B16F10_normal.treated	Mouse	cdx/pdx	CDX: B16F10	3	3	3752	0	myeloid cell	gene ko: LAIR1KO
+322	GSE171861_mouse_SKCM_cdx.B16F10_tumor.treated	Mouse	cdx/pdx	CDX: B16F10	3	3	4475	0	myeloid cell	gene ko: LAIR1KO
+323	GSE159913_human_REC_tissue.Kidney_normal	Human	kidney	Tissue: Kidney	1	1	2369	0	myeloid cell	NA
+324	GSE159913_human_REC_tissue.Kidney	Human	kidney	Tissue: Kidney	1	1	13223	0	myeloid cell	NA
+325	GSE118019_mouse_LUC_cdx.LLC1	Mouse	cdx/pdx	CDX: LLC1	2	2	4825	0	myeloid cell	NA
+326	GSE152674_mouse_BRCA_tissue.Breast_untreated	Mouse	breast	Tissue: Breast	3	3	2669	0	myeloid cell	untreated
+327	GSE171861_mouse_SKCM_cdx.B16F10_normal	Mouse	cdx/pdx	CDX: B16F10	3	3	3069	0	myeloid cell	untreated
+328	GSE171861_mouse_SKCM_cdx.B16F10_tumor	Mouse	cdx/pdx	CDX: B16F10	3	3	4180	0	myeloid cell	untreated
+329	GSE118245_mouse_LUC_tissue.Blood	Mouse	lung	Tissue: Blood	1	2	1736	0	neutrophils	NA
+330	GSE118245_mouse_LUC_tissue.Lung	Mouse	lung	Tissue: Lung	1	9	519	0	neutrophils	NA
+331	GSE109542_mouse_SKCM_cdx.B16F10-MICA_treated	Mouse	cdx/pdx	CDX: B16F10-MICA	1	1	3348	0	NK	experiment:immunotherapy
+332	GSE123534_mouse_Leukemia_cdx.RMA-S_treated	Mouse	cdx/pdx	CDX: RMA-S	1	1	3096	0	NK	gene ko: hif1a
+333	GSE139249_human_SKCM_tissue.Skin	Human	skin	Tissue: Skin	5	7	14637	0	NK	NA
+334	GSE139249_human_SKCM_tissue.Blood	Human	skin	Tissue: Blood	5	5	25275	0	NK	NA
+335	GSE159624_human_Leukemia_tissue.BoneMarrow_tumor	Human	blood/bone marrow	Tissue: Bone Marrow	8	8	15332	0	NK	NA
+336	GSE159624_human_Leukemia_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	8	8	24296	0	NK	NA
+337	GSE109542_mouse_SKCM_cdx.B16F10-MICA_normal	Mouse	cdx/pdx	CDX: B16F10-MICA	1	1	3809	0	NK	untreated
+338	GSE109542_mouse_SKCM_cdx.B16F10-MICA_untreated	Mouse	cdx/pdx	CDX: B16F10-MICA	1	1	2617	0	NK	untreated
+339	GSE123534_mouse_Leukemia_cdx.RMA-S_untreated	Mouse	cdx/pdx	CDX: RMA-S	1	1	3567	0	NK	untreated
+340	GSE141299_human_MM_tissue.BoneMarrow_normal	Human	blood/bone marrow	Tissue: Bone Marrow	1	1	205	0	plasma cell	NA
+341	GSE141299_human_MM_tissue.BoneMarrow_tumor	Human	blood/bone marrow	Tissue: Bone Marrow	9	9	22462	10669	plasma cell	NA
+342	GSE149652_human_BLC_tissue.Bladder_tumor_chemotherapy	Human	bladder	Tissue: Bladder	1	2	3191	0	T cell	chemotherapy; immunotherapy
+343	GSE149652_human_BLC_tissue.Bladder_normal_chemotherapy	Human	bladder	Tissue: Bladder	1	2	1368	0	T cell	chemotherapy; immunotherapy
+344	GSE149652_human_BLC_tissue.Bladder_normal_immunotherapy	Human	bladder	Tissue: Bladder	3	3	1317	0	T cell	immunotherapy
+345	GSE149652_human_BLC_tissue.Bladder_tumor_immunotherapy	Human	bladder	Tissue: Bladder	4	8	15406	0	T cell	immunotherapy
+346	GSE168944_mouse_CRC_cdx.MC38_tumor	Mouse	cdx/pdx	CDX: MC38	4	4	NA	NA	T cell	NA
+347	GSE168944_mouse_CRC_cdx.Blood	Mouse	cdx/pdx	CDX: Blood	4	4	22344	0	T cell	NA
+348	GSE168944_mouse_CRC_cdx.Lymph	Mouse	cdx/pdx	CDX: MC38	4	4	36004	0	T cell	NA
+349	GSE168944_mouse_CRC_cdx.Spleen	Mouse	cdx/pdx	CDX: MC38	4	4	41279	0	T cell	NA
+350	GSE149652_human_BLC_tissue.Bladder_normal	Human	bladder	Tissue: Bladder	2	3	1610	0	T cell	untreated
+351	GSE149652_human_BLC_tissue.Bladder_tumor	Human	bladder	Tissue: Bladder	2	4	6764	0	T cell	untreated
+352	GSE123508_mouse_SARC_tissue.Tumor_treated	Mouse	soft_tissue	Tissue: Tumor	2	2	17300	0	T cell UTC	gene ko: csf3r
+353	GSE123508_mouse_SARC_tissue.Tumor_untreated	Mouse	soft_tissue	Tissue: Tumor	2	2	15110	0	T cell UTC	untreated
