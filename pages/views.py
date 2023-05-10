@@ -18,7 +18,8 @@ def browse(request):
     return render(request, 'browse.html', {"studies": Study.objects.all()}) # need to define Study class in models.py.
 
 def browse_results(request):
-    return render(request, "browse_results.html")
+    dataset = Study.objects.all()
+    return render(request, "browse_results.html", {'dataset': dataset} )
 
 # views for goto search page from the sidebar.
 def search(request):
